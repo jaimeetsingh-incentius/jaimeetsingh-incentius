@@ -4,7 +4,7 @@ Solutions Developer at Incentius | Aurochs Software
 
 I'm a Full-Stack developer from India 🇮🇳, with hands-on expertise in building innovative and robust web applications.
 
-📫 Reach me: [Jaimeet Singh](jaimeet.singh@aurochssoftware.com)
+📫 Reach me: [Jaimeet Singh](mailto:jaimeet.singh@aurochssoftware.com)
 <!--
 **jaimeetsingh-incentius/jaimeetsingh-incentius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
